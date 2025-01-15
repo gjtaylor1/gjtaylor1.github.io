@@ -9,4 +9,4 @@ This repo contains assignments for Wake Tech
 
 Also here's an image! :)
 
-![alt text](https://github.com/gjtaylor1/gjtaylor1.github.io/images/testimage.jpg)
+![alt text](https://gjtaylor1.github.io/images/testimage.jpg)
