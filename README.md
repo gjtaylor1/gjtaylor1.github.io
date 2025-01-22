@@ -1,4 +1,4 @@
-# gjtaylor1.github.io
+# [gjtaylor1.github.io](https://www.gjtaylor1.github.io)
 1. Garrett Taylor, gjtaylor1@my.waketech.edu
 2. This is my school account for Wake Tech
 3. This repo contains assignments for Wake Tech
@@ -9,13 +9,13 @@ I am most interested in auto racing and land transportation technology.
 
 Motorsports are quite interesting to me as they combine engineering and skill. There are plenty of enthralling stories of different manufacturers and drivers competing throughout the years regardless of what type of racing you're into. Personally, I find stage rally to be the most fun to watch. Seeing cars driving faster than highway speeds on narrow forests roads will never get boring to me.
 
-![Rally car](https://www.gjtaylor1.github.io/images/rallycar.jpg)
-#### ARA Champion Brandon Semenuk's vt22R at the 2022 Southern Ohio Forest Rally
+![Rally car](https://www.github.com/gjtaylor1.github.io/images/rallycar.jpg)
+*~ARA Champion Brandon Semenuk's VT22R at the 2022 Southern Ohio Forest Rally~*
 
 Land transportation only recently became of interest to me. I'm mostly interested in trains, but am probably still more knowledeable about road cars because of my ongoing interests in motorsport. Most of my motivation to learn about the subject comes from the USA's lack of interest in rail. Our passenger rail system has long been underfunded. This becomes quite obvious if you visit most countries with a similar GDP as the US. I visited Japan last summer, which is basically paradise if you love trains. Trains are essentially better than cars in every way if you live in an urban or moderately dense suburban environment, and I would highly recommend that every American looks into rail transit as a viable option for the future. 
 
-![Bullet train](https://www.gjtaylor1.github.io/images/shinkansen.jpg)
-#### A 500 series shinkansen arriving at Sanyo-Himeji Station
+![Bullet train](https://www.github.com/gjtaylor1.github.io/images/shinkansen.jpg)
+*~A 500 series shinkansen arriving at Sanyo-Himeji Station~*
 
 ## Websites I recommend
 I am addicted to YouTube, so I guess I should probably recommend checking out some channels and videos, even if it's a time waste.
